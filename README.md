@@ -2,7 +2,7 @@
 <h3 align="center">
 "Hi! 👋 This is Rao okasha, a datascience-focused Computer Science student. Proficient in HTML, CSS, , C++, Python, Flask, with hands-on experience in API testing, data science  Committed to driving innovation and excellence in data science, I continuously evolve to stay ahead of the curve."</h3>
 
-<img align="center" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" alt="animated picture" width="100%" height="500">
+<img align="center" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="animated picture" width="100%" height="600">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raookasha&label=Profile%20views&color=0e75b6&style=flat" alt="raookasha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raookasha" alt="raookasha" /></a> </p>
